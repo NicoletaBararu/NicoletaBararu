@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoletaBararu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to learn more.
 - 📫 How to reach me : nicoletabararu12@gmail.com
 
